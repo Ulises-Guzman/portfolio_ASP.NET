@@ -33,6 +33,8 @@
             &#8226; Fundamentos de la Programación.<br />
             &#8226; C# Nivel 1. “Desde Cero”<br />
             &#8226; C# Nivel 2. “POO, Framework .NET, + SQL”<br />
+        </p>
+
         <h4>
             Realizando:
         </h4>

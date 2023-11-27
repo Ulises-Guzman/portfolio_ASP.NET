@@ -51,7 +51,7 @@ body {
 
 /* Barra de Navegacion-CSS Flexbox */
 form div nav {
-    position: initial;
+    position: sticky;
     top: 0;
     left: 0;
     z-index: 1;
@@ -125,11 +125,43 @@ nav ul li {
 }
 /* Fin Seccion Hero */
 
+/* Seccion Mas Sobre Mi */
+.mas-sobre-mi {
+    margin: auto;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+    background-color: var(--bg-color);
+    padding: 1rem 6rem;
+}
+
+.mas-sobre-mi h2 {
+    margin-bottom: var(--bottom-margin);
+    text-align: center;
+}
+
+.mas-sobre-mi p {
+    line-height: var(--line-height);
+    padding: 0.4rem;
+}
+
+.mas-sobre-mi #cursos-realizados {
+    margin-top: 1.5rem;
+}
+
+.mas-sobre-mi #tipo-curso-sysadmin {
+    margin-top: var(--top-margin-2);
+}
+
+.mas-sobre-mi h4 {
+    margin-top: var(--top-margin);
+}
+/* Fin Seccion Mas Sobre Mi */
+
+
 /* Footer */
 footer {
     background-color: var(--bg-color);
     padding: 1.25rem;
     text-align: center;
-    margin: 2rem 0;
-    margin-bottom: 0;
+    margin: 2rem 0 0;
 }

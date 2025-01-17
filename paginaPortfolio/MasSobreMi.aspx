@@ -1,7 +1,7 @@
 ﻿<%@ Page Title="Más sobre Mi" Language="C#" MasterPageFile="~/SiteMaster.Master" AutoEventWireup="true" CodeBehind="MasSobreMi.aspx.cs" Inherits="paginaPortfolio.MasSobreMi" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
-<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+<asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
      <!-- Seccion Mas Sobre -->
    <section class="mas-sobre-mi" runat="server">
         <h2>Más Sobre Mí</h2>

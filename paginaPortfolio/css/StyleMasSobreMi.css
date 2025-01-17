@@ -1,0 +1,31 @@
+﻿/* Seccion Mas Sobre Mi */
+.mas-sobre-mi {
+    margin: auto;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+    background-color: var(--bg-color);
+    padding: 1rem 6rem;
+}
+
+    .mas-sobre-mi h2 {
+        margin-bottom: var(--bottom-margin);
+        text-align: center;
+    }
+
+    .mas-sobre-mi p {
+        line-height: var(--line-height);
+        padding: 0.4rem;
+    }
+
+    .mas-sobre-mi #cursos-realizados {
+        margin-top: 1.5rem;
+    }
+
+    .mas-sobre-mi #tipo-curso-sysadmin {
+        margin-top: var(--top-margin-2);
+    }
+
+    .mas-sobre-mi h4 {
+        margin-top: var(--top-margin);
+    }
+/* Fin Seccion Mas Sobre Mi */

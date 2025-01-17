@@ -1,0 +1,34 @@
+﻿/* Seccion Habilidades */
+
+.habilidades {
+    max-width: 68.75rem;
+    margin: auto;
+    margin-top: 2.5rem;
+}
+
+.encabezado-habilidades {
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
+.contenedor-habilidades {
+    text-align: center;
+}
+
+    .contenedor-habilidades img {
+        padding: 1.25rem;
+    }
+
+.icon {
+    width: 11.875rem;
+    height: 11.25rem;
+}
+
+.icon-card {
+    background-color: #fff;
+    border-radius: 11px;
+    box-shadow: 0 3px 10px var(--secondary-shadow);
+    padding: 20px;
+    margin: 10px;
+}
+/* Fin Seccion Habilidades */

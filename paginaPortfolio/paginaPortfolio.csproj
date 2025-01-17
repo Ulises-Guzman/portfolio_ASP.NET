@@ -68,6 +68,12 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Contacto.aspx" />
+    <Content Include="css\StyleContacto.css" />
+    <Content Include="css\StyleDefault.css" />
+    <Content Include="css\StyleHabilidades.css" />
+    <Content Include="css\StyleMasSobreMi.css" />
+    <Content Include="css\StyleMaster.css" />
+    <Content Include="css\StyleProyectos.css" />
     <Content Include="css\Styles.css" />
     <Content Include="Default.aspx" />
     <Content Include="Global.asax" />
@@ -88,6 +94,8 @@
     <Content Include="Icons\Icons8_flat_linux.svg.png" />
     <Content Include="Icons\Microsoft_.NET_logo.svg.png" />
     <Content Include="Icons\terminal-gnome-adwaita.svg" />
+    <Content Include="Images\git-wallpaper1.png" />
+    <Content Include="js\ValidacionFormulario.js" />
     <Content Include="MasSobreMi.aspx" />
     <Content Include="Proyectos.aspx" />
     <Content Include="Web.config" />
@@ -152,7 +160,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="js\" />
     <Folder Include="Models\" />
   </ItemGroup>
   <PropertyGroup>
